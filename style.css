@@ -384,6 +384,9 @@ h1{
     margin: 600px auto;
     justify-content: space-between;
   }
+  .social-links img{
+     width: 30px;
+  }    
   .menu{
     width: 2px;
     margin: 0;
@@ -426,7 +429,7 @@ h1{
   .footer{
       text-align: center;
       background: transparent;
-      margin: 540px 0 ;
+      margin: 535px 0 ;
       background: linear-gradient(to bottom, white, #38495a);
       -webkit-text-fill-color: transparent;
       -webkit-background-clip: text;
